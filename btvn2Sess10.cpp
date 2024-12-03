@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
-	//bubble sort
 	int arr[5]={3,8,7,4,1};
 	
 	for(int i=0;i<5;i++){
